@@ -14,7 +14,8 @@ Once fit, the encoder part of the model can be used to encode or compress sequen
 Autoencoders are a type of self-supervised learning model that can learn a compressed representation of input data.
 LSTM Autoencoders can learn a compressed representation of sequence data and have been used on video, text, audio, and time series sequence data.
 
-https://machinelearningmastery.com/lstm-model-architecture-for-rare-event-time-series-forecasting/
+![image](https://user-images.githubusercontent.com/61543022/121521919-e40a1000-c9f4-11eb-86d2-a43de8795ff3.png)
+
  Reference: https://machinelearningmastery.com/lstm-model-architecture-for-rare-event-time-series-forecasting/
  
 ## RESULTS
