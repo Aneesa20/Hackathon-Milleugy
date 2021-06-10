@@ -21,5 +21,6 @@ LSTM Autoencoders can learn a compressed representation of sequence data and hav
 ## RESULTS
 ![image](https://user-images.githubusercontent.com/61543022/121521475-68a85e80-c9f4-11eb-9c7e-e6343ac2e148.png)
 
+## OUR SOLUTION
 
-
+![image](https://user-images.githubusercontent.com/61543022/121527046-49accb00-c9fa-11eb-84b8-b92358873f08.png)
